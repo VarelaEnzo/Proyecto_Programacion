@@ -227,7 +227,7 @@ elif (opcionesMenú == "2"):
     ingresoVehículos(espaciosOcupados, registrados, espacios)
 
 elif (opcionesMenú == "3"):
-    retirarVehículo(registrados)
+    retirarVehículo()
 
 elif (opcionesMenú == "4"):
     auto = 0
